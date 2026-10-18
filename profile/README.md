@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ai-passport.folotoy.cn"><img src="assets/hero.png" width="100%" alt="FOLOTOY — Make AI something real. 让 AI 走进真实世界。Open hardware, AI companions, made by you."></a>
+  <a href="https://ai-passport.folotoy.cn"><img src="assets/hero.png" width="100%" alt="FOLOTOY — make it anything. 简单开放，人人可造。Open hardware, AI companions, made by you."></a>
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
   <b><a href="https://folotoy.com">FoloToy</a></b>
 </p>
 
-**FoloToy brings AI into things you can hold, wear, and make your own.** From AI Passport to MagicBox, explore hardware, firmware, and developer resources to turn an idea into a companion, a tool, a game—or something entirely yours.
+**make it anything.** FoloToy brings AI into things you can hold, wear, and make your own. From AI Passport to MagicBox, explore hardware, firmware, and developer resources to turn an idea into a companion, a tool, a game—or something entirely yours.
 
-**FoloToy 让 AI 变成可以触摸、佩戴和亲手创造的伙伴。** 从 AI Passport 到 MagicBox，我们提供硬件、固件与开发资源，让你把一个想法做成随身伙伴、实用工具、小游戏，或属于自己的全新体验。
+**简单开放，人人可造。** FoloToy 让 AI 变成可以触摸、佩戴和亲手创造的伙伴。 从 AI Passport 到 MagicBox，我们提供硬件、固件与开发资源，让你把一个想法做成随身伙伴、实用工具、小游戏，或属于自己的全新体验。
 
 ## Find your canvas · 从这里开造
 
@@ -44,10 +44,10 @@
 | **开发 MagicBox 硬件** · Build on MagicBox | [BSP 与硬件版本说明 · Hardware profiles](https://github.com/FoloToy/MagicBox) |
 | **部署 FoloToy 社区服务** · Self-host the community server | [部署配置 · Self-hosting](https://github.com/FoloToy/folotoy-server-self-hosting) · [文档 · Docs](https://docs.folotoy.com) |
 
-## Make it yours. Share it forward. · 一起把想法做出来
+## Create & share · 一起把想法做出来
 
 Found a bug, built a new play, or have an idea? Open an issue or a pull request in the relevant repository. For AI Passport contributions, start with the [contribution guide](https://github.com/FoloToy/ai-passport/blob/main/.github/CONTRIBUTING.md).
 
 发现问题、做出新玩法，或有一个想试试的点子？欢迎到对应仓库提交 Issue 或 Pull Request。参与 AI Passport 共创，可以先阅读[贡献指南](https://github.com/FoloToy/ai-passport/blob/main/.github/CONTRIBUTING.zh_CN.md)。
 
-<p align="center"><b>Small devices. Endless possibilities.</b><br>小小设备，大大可能。</p>
+<p align="center"><b>make it anything.</b><br>简单开放，人人可造。</p>
